@@ -1,4 +1,4 @@
-# TAR-Command
+# Randomized String Generator
 
 COMMAND:         bash -f rsg.sh < q2testfile 4 10
 
